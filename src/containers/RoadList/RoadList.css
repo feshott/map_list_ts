@@ -1,0 +1,12 @@
+.road_list{
+  min-width:550px;
+  min-height: 400px;
+  background: #d0d0d0f5;
+}
+.title{
+  margin: 15px 15px;
+  padding: 10px 0px;
+  font-size: 20px;
+  border-bottom: 1px gray solid;
+  border-top: 1px gray solid;
+}

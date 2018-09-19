@@ -1,0 +1,9 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  font-family: 'Roboto', sans-serif;
+}
+body{
+  background: #e8e8e8;
+}

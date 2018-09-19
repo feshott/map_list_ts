@@ -1,0 +1,34 @@
+.item_list{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px gray solid;
+  padding: 10px 0px;
+  margin: 0px 15px;
+}
+.number{
+  background: greenyellow;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin: 0px 15px;
+}
+.number_red{
+  background-color: rgb(209, 45, 45);
+}
+.number_blue{
+  background-color: rgb(44, 46, 156);
+}
+.address{
+  margin: 0px 15px;
+}
+.last_visit{
+  font-size: 13px;
+}
+.avatar{
+  background: skyblue;
+  background-size: contain;
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  margin: 0px 15px;
+}
